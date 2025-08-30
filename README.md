@@ -1,3 +1,5 @@
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/90975508-4e44-4e00-a56f-a7365e1b0c36" />
+
 # Essential Vision
 ## Problem Statement:
 Suboptimal Outcomes in AV Fistula Creation for Dialysis Patients
