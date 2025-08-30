@@ -1,0 +1,7 @@
+- Edge-centric view: treat edges as primary primitives and build adjacency from incident faces—mirrors operating on edges and their 1‑ring neighborhoods.
+- Feature set: 5‑D, similarity‑invariant edge descriptor -> dihedral angle + two inner angles + two edge‑length ratios. Aggregate with min/max across incident faces to avoid ordering issues.
+- Orientation handling: min/max aggregation removes ambiguity between different vertex orderings per face.
+- Boundary vs internal edges: assign dihedral only for internal edges; set to 0 for boundary edges (assumes <=2 faces per edge on manifold meshes).
+- Triangulation first: if input has quads/ polys, triangulate so angles/ratios are well‑defined and robust.
+- Node features minimal: coordinates + degree; edge attributes carry most local geometric signal for hemodynamics‑related targets (e.g. TAWSS/OSI).
+- Multi‑scale idea to consider: edge‑collapse–based pooling (and optional unpooling) for coarse‑to‑fine features when predicting wall metrics.

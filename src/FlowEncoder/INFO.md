@@ -1,0 +1,1 @@
+This encoder is used to capture different flow conditions that may arise in the simulations we find online. By doing this, we can parameterize flow so that experiments with similar flow parameters (e.g. simulation geometry is cylinder) will have similar downstream predictions. This helps us to generalize to other flows using our existing architecture.
