@@ -1,4 +1,4 @@
-[![Video Demo](https://img.youtube.com/vi/jNJTqcFjKK4/hqdefault.jpg)](https://youtu.be/jNJTqcFjKK4)
+<img width="475" height="500" alt="image" src="https://github.com/user-attachments/assets/90975508-4e44-4e00-a56f-a7365e1b0c36" />
 
 # Essential Vision
 ## Problem Statement:
@@ -10,8 +10,6 @@ Patients with end-stage renal disease (ESRD) who require hemodialysis depend on 
 
 - Resource-intensive workflows: Multiple imaging sessions, consultations, and revisions contribute to increased healthcare costs and patient burden.
 
-<img width="475" height="500" alt="image" src="https://github.com/user-attachments/assets/90975508-4e44-4e00-a56f-a7365e1b0c36" />
-
 ## How Radiel Health Solves This:
 Radiel Health introduces a real-time computational fluid dynamics (CFD) platform that leverages existing ultrasound imaging data to model and predict patient-specific hemodynamics before surgery. This approach addresses the limitations in current AV fistula planning by:
 - Quantifying blood flow predictions: Using CFD to simulate how blood will move through potential fistula configurations, enabling evidence-based decision-making.
@@ -22,6 +20,12 @@ Radiel Health introduces a real-time computational fluid dynamics (CFD) platform
 
 - Reducing failure and revision rates: Improving the likelihood of successful fistula maturation and long-term viability through better-informed planning.
 
+# Video Presentation
+
+Click the preview to watch the video.
+
+[![Video Demo](https://img.youtube.com/vi/jNJTqcFjKK4/hqdefault.jpg)](https://youtu.be/jNJTqcFjKK4)
+
 # Who it involves
 
 ## ML Team:
@@ -30,8 +34,11 @@ Nicholas
 Sarvesh
 
 Roles of Team Members:
+
 Rishabh: Project Manager, Develop the GNN
+
 Nicholas: Research, Plan out new architectures, prototype implementation
+
 Sarvesh: Develop the GNN
 
 
