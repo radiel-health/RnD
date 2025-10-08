@@ -31,9 +31,8 @@ Click the preview to watch the video.
 ## ML Team:
 Rishabh
 Nicholas
-Sarvesh
 Maxmillian
-Yana
+Ahash
 
 Roles of Team Members:
 
