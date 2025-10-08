@@ -32,6 +32,8 @@ Click the preview to watch the video.
 Rishabh
 Nicholas
 Sarvesh
+Maxmillian
+Yana
 
 Roles of Team Members:
 
