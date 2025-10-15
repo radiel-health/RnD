@@ -1,0 +1,19 @@
+<CFX_RESULTS file="C:\Users\prana\lid-driven-fluid-flow-2d_files\dp0\FFF-2\Fluent\FFF-2-1-00597.dat.h5">
+  <DOMAIN name="/DATA READER/CASE:Case Re 300/DOMAIN:surface_body">
+    <BOUNDARY name="/DATA READER/CASE:Case Re 300/BOUNDARY:moving_wall">
+      <AREA units="m^2">0.01</AREA>
+    </BOUNDARY>
+    <BOUNDARY name="/DATA READER/CASE:Case Re 300/BOUNDARY:stat_walls">
+      <AREA units="m^2">0.03</AREA>
+    </BOUNDARY>
+    <BOUNDARY name="/DATA READER/CASE:Case Re 300/BOUNDARY:symmetry 1">
+      <AREA units="m^2">1</AREA>
+    </BOUNDARY>
+    <BOUNDARY name="/DATA READER/CASE:Case Re 300/BOUNDARY:symmetry 2">
+      <AREA units="m^2">1</AREA>
+    </BOUNDARY>
+  </DOMAIN>
+  <TIMESTEP>
+    <TIME units="s" timestep="597">0</TIME>
+  </TIMESTEP>
+</CFX_RESULTS>
